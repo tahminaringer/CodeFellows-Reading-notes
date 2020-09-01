@@ -18,8 +18,8 @@ I am a floral designer turned software developer. I spent the past 20 years perf
 
 ## Table of Contents 201
 
-- class 1 [HTML JavaScript Reveiw](HTML_JS_read01.md)
-- class 2
+- class 1 [HTML JavaScript Reveiw 01](201/HTML_JS_read01.md)
+- class 2 [Basics HTML, CSS, JS 02](201/Basics_read02.md)
 - class 3
 - class 4
 - class 5

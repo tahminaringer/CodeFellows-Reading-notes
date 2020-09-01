@@ -126,4 +126,3 @@
   - can access the members of an object by using a dot `.` between the object name and it's member you want to access.
 - **Method** The `write()` method above allows new content to be written into the page where the `<script>` element sits in HTML
 - **Parameters** the information inorder for the task to work. This data is given inside parentheses of the method
-
