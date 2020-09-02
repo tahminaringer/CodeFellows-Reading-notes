@@ -1,6 +1,11 @@
 # Read02- Basics of HTML, CSS & JS
 
+- All three laguages is browser friendly.
+- **HTML Attributes** there to modify the contents of a tag
+                   
 ## HTML/CSS Chapter 2
+
+- tag vs element- tag refers to name of element content thing between angle brackets. Element is the whole thing, what shows up in browser
 
 - **Structural Markup** used to describe headings and paragraphs
 - **Semantic markup** provides extra emphasis like where emphasis is placed in a sentence.
@@ -40,23 +45,47 @@
 - **Properties**  Indicate the aspects of the element your want to change
 - **Values** Specify the settings you want to use for the chosen properties
 - **`<link>`** used in HTML to tell where to find css file, uses three attributes
+  - for selectors that conflict- the last thing read will be used
   - **href** path to CSS file
   - **type** type of document being linked to
-  - **rel** relationship between HTML and file it is linked to
+  - **rel** relationship between HTML and file it is linked to- For CSS use `rel="stylesheet"`
+
 - **`<style>`** sits inside the `<head>` include CSS stles in HTML
   - uses the type attribute with a value of text/css
 - **CSS Sectors** case sensitive- target rules to specific elements
 - `!important` can be added after property to show most improtant
-- **Selectors**
+- **Selectors** no spaces in attributes
   - *Universal Selector* Targets all elements on the page
   - *Type Selector* Matches element names
   - *Class Selector* matches element's class value `.note {}`
+    - classes should be used to group like items together
   - *ID Selector* matches value of of ID attribute `#introduction{}`
+    - should only be applied to one element
   - *Child Selector* matches an element that is a direct child of another `li>a{}`
   - *Adjacent Sibling Selector* Matches an element that is the next sibling of another `h1+p {}`
   - *General Sibling Selector* Matches element of a sibling of another `h1~p{}`
+- `<script src=""></script>`
 
 ## JS Chapter 2
+
+- types of data JS can handle
+  1. *string* sequence of natural language character 
+  2. *number* Quantitative value represented by symbol
+  3. *Booleen* a binary true or false
+  4. *null*
+  5. *undefined*
+
+-Condition Logic
+  - operations / js statements that will be exectuted based upon a condition.
+  `if (some condition) {block of code}`
+  - **switch statements** more than one if statements
+  `var user = 'name';`
+  `switch (user) {`
+    `case 'name1'`
+      `console.log('name1 is  the user')`
+      `break;`
+    `case 'name2'`
+  }
 
 - **Statement** individual steps that a computer follows
 - REMEMBER- JS is case sensitive
@@ -108,7 +137,7 @@
 
 - comparison operators generally return values of true or false. Logical operators allow you to compare the results of more than one comparison operator.
 - `==`-equal to - compares two values
-- `!=` - is not equal to-compares two values(numbers, strings, booleans) to see if they are **NOT** the same
+- `!=` - is not equal to-compares two values(numbers, strings, booleans) to codsee if they are **NOT** the same
 - `===` -strict equal- compares two values to check that both the data type and value are the same
 - `!==`-Strict not equal- compares two values to check that both the data type and value are **not** the same.
 - `>` - greater than
