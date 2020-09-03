@@ -67,6 +67,8 @@
   - *index* number given to each item in an array
   - array name is specified along with the idex number in `[]`
   -*length* is the property wich holds the number of items in an array
+  - `questions.push('something else')` adds additional data to array.
+  - `questions.pop();` removes something from array
 
 ## JS Chapter 4
 
@@ -74,13 +76,25 @@
 - **Switch statements** Start with a variable called switch value, each case indicates a possible value the variable and the code that should run if match
 - **type coercion** when JS converts data types behind the scenes to complete operation
 - **Falsy** treated as if they are false
+  - false/''/0/undefined/null
 - **Truthy** treated as if they are true
+  - True/string/ []/{}/1(any number above 0)
 - **Unary operator** returns a result with just one operand
 - **Loops**Check a condition, if true, a code block will run. repeats
   - **For** if need to run for specific amount of times use **for** loop
     - ex: password- after entering wrong x amount times get blocked
+    - Take 3 specific statements
+      - Initialization of something to check within the loop
+      - compareison(condition involving our intitialized thing)
+      - Operation to perform on our intialized thing
+      - `for (initialization, comparison, operation)`
+      - `for (var i = 3; i > 0; i = i;){`
+        `console.log(i;)`
+      `}`
   - **While** if amount of times unknown. loops as long as condition is true
-  - continue to loop when user answers false, until user enter an answer that is true, runs until user answer is once again false. true and false interchangable- Password senario.
+    - continue to loop when user answers false, until user enter an answer that is true, runs until user answer is once again false. true and false interchangable- Password senario.
+    
+
   - **Do While** similar to *while* loop but will always run the statements inside the curly brac es atleast 1 even if statement is false
   -**Initializeation** *i* Create a variable and set it to 0
   - **Condition** will run until reaches a specific number
