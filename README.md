@@ -7,14 +7,14 @@ I am a floral designer turned software developer. I spent the past 20 years perf
 
 ## Table of Contents 102
 
-- class 1  [learning markdown](learning_markdown.md)
-- class 2  [Coder's Computer](coders_computer.md)
-- class 3  [Git Intro](git.md)
-- class 4  [HTML Structure Web](HTML_StructureWeb.md)
-- class 5  [Design Web Pages with CSS](webpages_css.md)
-- class 6  [Web Pages with JavaScript](webpages_js.md)
-- class 7  [Programing JavaScript](programming_JS.md)
-- class 8  [Opperators & Loops](opperators_loops.md)
+- class 1  [learning markdown](102/learning_markdown.md)
+- class 2  [Coder's Computer](102/coders_computer.md)
+- class 3  [Git Intro](102/git.md)
+- class 4  [HTML Structure Web](102/HTML_StructureWeb.md)
+- class 5  [Design Web Pages with CSS](102/webpages_css.md)
+- class 6  [Web Pages with JavaScript](102/webpages_js.md)
+- class 7  [Programing JavaScript](102/programming_JS.md)
+- class 8  [Opperators & Loops](102/opperators_loops.md)
 
 ## Table of Contents 201
 
@@ -22,7 +22,7 @@ I am a floral designer turned software developer. I spent the past 20 years perf
 - class 2 [Basics HTML, CSS, JS 02](201/Basics_read02.md)
 - class 3 [Lists Boxes ConFlow 03](201/Lists_Boxes_ConFlow_Rd03.md)
 - class 4 [Links Layout Functions 04](201/RD04_Links_Layout_Functions.md)
-- class 5
+- class 5 [RD05 Images, Color, Text](201/RD05_images_color_text.md)
 - class 6
 - class 7
 - class 8

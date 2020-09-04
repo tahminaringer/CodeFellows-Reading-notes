@@ -53,6 +53,7 @@
 - stores steps needed to achieve a task
 - calling the fuction is asking it to perform its task
 - **parameters** pieces of information passed to a function
+ - codevariable that defines a reference for an argument. defined within function.
 - **return value** the expected answer to a function
 - **Declaring the function**
   - `function sayHello() {`
@@ -63,6 +64,7 @@
   - `function getArea(width, height) {`
       `return width * height;`
 - **Calling functions that need information**
+  - **Argument** value that exists outside of the function signature
   - **Arguments as Values**`getArea(3, 5);`
   - **Arguments as Variables**
   `wallWidth = 3;`

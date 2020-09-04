@@ -21,9 +21,16 @@
 - **Overflow** tells browser what to do if the content contained within a boc is larger than the box itself
  - *hidden* this property hides excess content
  - *scroll* adds a scroll bar to box
-- **Border** separates the edge of one box from another
+- **Border** separates the edge of padding inside of margin. adds definition around element
+  -*border radius* changes rounds box takes px value
 - **Margin** creates gaps between the borders of two adjacent boxes
-- **Padding** space between the border of a box and any content contained with in it.
+- **Padding** space between the border of a box and any content contained with in it. first layer around content
+  -space within element
+- **position** how an element positions itself amongst other elements
+  - *static*: normal positioning based on pargin, border, padding m height width etc
+  - *relative* `position: relative;` position based on other elements
+  - *absolute* potition wherever it is asked to be- ignores immediate layout, moves however many px is specified.
+  - *fixed* Stays within the view port. Element stays in place as scroll through bage
 - **White space** Space between items on page
 - **Border-width** Controls the of a border- thin med thick or in pixels
 - **Border-Style** controls style of border- solid, dotted, dashed, double, groove, ridge, inset, outset, hidden
@@ -36,8 +43,9 @@
 - **Centering Content** set `left-margin` `right-margin` to auto
   - must set a with for the box or it will take up full page
 - **Display element** turns an inline element into a block-level elelment or vice versa can also hide element
-  - `inline` causes a block-level element to act like an inline elelment
-  - `inline-block` causes block-level element to flow like an inline element
+  - `block `- take a full line and do not let anything sit beside
+  - `inline` causes a block-level element to act like an inline elelment. takes only as much space as content needs
+  - `inline-block` causes block-level element to flow like an inline element. sits in line can ajust height and width while appear on the same plane
   - `none` hides an element from the page
 - **Visibility**  allows you to hid boxes from users but leaves space where it would have been
   - `hidden` hides element
