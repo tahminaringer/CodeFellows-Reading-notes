@@ -12,30 +12,30 @@
 
 - **Positioning Schemes** Allow you to control the layout of a page
   - *normal flow* every block-level element appears on a new line. default of browser.
-  - *relative positioning* moves an element fromthe position it would be in normal flow, shifting it to the top, right, bottom or left of where it would have been placed
-  - *absolute positioning* positions the element in relation to its containing element. Does not affect the postion of any surrounding elements
-  - *Fixed positioning* absolute positioning that positions an element in relation to the browser window, as opped to the containing element. Do not move when scrolled
-  - *floating elements* allows you to take that element out of normal flow and position it to the far left or right of a containing box. it becomes a block-level element arnd which other content can flow.
+  - *relative positioning* moves an element from the position it would be in normal flow, shifting it to the top, right, bottom or left of where it would have been placed
+  - *absolute positioning* positions the element in relation to its containing element. Does not affect the position of any surrounding elements
+  - *Fixed positioning* absolute positioning that positions an element in relation to the browser window, as opened to the containing element. Do not move when scrolled
+  - *floating elements* allows you to take that element out of normal flow and position it to the far left or right of a containing box. it becomes a block-level element and which other content can flow.
 - **z-index** allows you to control which box appears on top.
 - **Normal Flow** each block-level element sits on top of the next one.
   - `position:static`
 - **Relative Positioning** moves an element in relation to where it would have been in normal flow.
   - `position:relative`
-- **Absoluet positioning** when position property is given a value of absolute, the box is taken out of normal flow and no longer affects the position of other elements on the page.
+- **Absolute positioning** when position property is given a value of absolute, the box is taken out of normal flow and no longer affects the position of other elements on the page.
   - `position:absolute`
 - **Fixed Positioning** is a type of absolute positioning that requires the position property to have a value of fixed.
   - `position:fixed`
-- **Overlapping Elements** when you use relative fixed or absoluet positioning, boxes can overlap. To control which element sits on top you can use **z-index**
+- **Overlapping Elements** when you use relative fixed or absolute positioning, boxes can overlap. To control which element sits on top you can use **z-index**
   - `z-index`
 - **Floating Elements** allows you to take an element in normal flow and place it as far to the left or right of the containing element as possible.
   - `float`
-  - commonly used to place boxes next to eachother
-- **Clearing Floats** allows you to say that no element within the same containing element should touch the left or right handsides of a box
+  - commonly used to place boxes next to each other
+- **Clearing Floats** allows you to say that no element within the same containing element should touch the left or right hand sides of a box
   - `left` 
   - `right`
   - `both`
   - `none`
-- **Creating Multi-Column Layouts w/ floats**used to position the columns next to eachother
+- **Creating Multi-Column Layouts w/ floats** used to position the columns next to each other
   - width
   - Margin
   - float
