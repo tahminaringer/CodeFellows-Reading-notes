@@ -18,9 +18,9 @@ I am a floral designer turned software developer. I spent the past 20 years perf
 
 ## Table of Contents 201
 
-- class 1 [HTML JavaScript Reveiw 01](201/HTML_JS_read01.md)
-- class 2 [Basics HTML, CSS, JS 02](201/Basics_read02.md)
-- class 3 [Lists Boxes ConFlow 03](201/Lists_Boxes_ConFlow_Rd03.md)
+- class 1 [HTML JavaScript Reveiw 01](201/RD01HTML_JS.md)
+- class 2 [Basics HTML, CSS, JS 02](201/RD02Basics_HTML_CSS_JS.md)
+- class 3 [Lists Boxes ConFlow 03](201/RD03Lists_Boxes_ConFlow.md)
 - class 4 [Links Layout Functions 04](201/RD04_Links_Layout_Functions.md)
 - class 5 [RD05 Images, Color, Text](201/RD05_images_color_text.md)
 - class 6 [Object Literals; The DOM](201/RD06_Dom_literals.md)

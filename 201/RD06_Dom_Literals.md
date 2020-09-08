@@ -9,16 +9,47 @@
 ## JS Chapter 3 Object Literals
 
 - **Objects** group together a set of variables and functions to create a model of something you would recognize in real life
+  - similar to an array
   - object is the curly braces and thier contents
   - you can access the properties/methods of an object by using a dot notation or square brackets
+    - **pros**
+      - describe our data more
+      - no longer need to perform a loop to validate and lookup information
+    - Object Ex:
+
+    ```
+    Jacob {
+        name: 'Jacob',
+        age: 30,
+        title: 'instructor'
+      }
+
+      ```
+
+    - Array Ex:
+
+    `Jacob = [name, 30, title]`
+
+    - `this` is a key word in JS, that references the current object that our block of cade points to.
+
   - **properties** variables within an object
     - value can be a strig, mumber, boolean, array or an object
   - **methods** functions within an object
     - value of method is always a function
   - **key** name and value of properties and methods
     - Object cannot have two keys with the same name.
+  - **accessing data from an object**
+  ```bracket notation
+
+  Jacob['name]
 
 ## JS Chapter 5 Document Object Model
+
+- lives in the global runtime environment.
+- we can call out to this object, within any code block that runs in the browser
+- The JS was conceived as a multi runtime language.
+  - The runtime was responsible for providing the functionality
+- A built in API(application program interface)
 
 - **DOM tree** model of a web page created by the browser, stored on the memory consisting of four main nodes.
 - **Document Node** represents the entire page
