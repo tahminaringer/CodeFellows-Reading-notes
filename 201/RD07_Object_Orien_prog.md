@@ -19,8 +19,8 @@
 
 - **Table** Represents something in a grid format.
   - `<table>` creates table
-  - `<tr>`indicates the start of each row
-  - `<td>` represents each cell of the table
+  - `<tr>`indicates the start of each row/ contains all the cell data
+  - `<td>` represents each cell of the table, match amount of trs 
   - `<th>` represents the heading for either a column or a row
 - **Spanning columns** use `calspan=""` attribute
 - **Spanning Rows** use ` rowspan=""`

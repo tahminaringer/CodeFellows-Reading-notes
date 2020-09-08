@@ -24,7 +24,7 @@ I am a floral designer turned software developer. I spent the past 20 years perf
 - class 4 [Links Layout Functions 04](201/RD04_Links_Layout_Functions.md)
 - class 5 [RD05 Images, Color, Text](201/RD05_images_color_text.md)
 - class 6 [Object Literals; The DOM](201/RD06_Dom_literals.md)
-- class 7
+- class 7 [CSS Layou](201/RD08_CSS_Layout.md)
 - class 8
 - class 9
 - class 10
