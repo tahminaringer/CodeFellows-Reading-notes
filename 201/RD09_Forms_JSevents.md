@@ -3,7 +3,10 @@
 ## HTML Chapter 7
 
 ### Forms
-
+- `<form>` 
+  - Element that has some built attributes for sending data across an http connection.
+  -event for submitted data imput by the user
+  - can speck to its children that are form type
 - mailing lists, search box, forms, registering member, online shopping
   - `text input` used as email addresses and names
     - `<input>` used to creat several different form controls
