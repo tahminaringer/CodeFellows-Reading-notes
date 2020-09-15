@@ -28,8 +28,8 @@ I am a floral designer turned software developer. I spent the past 20 years perf
 - class 7 [CSS Layout](201/RD08_CSS_Layout.md)
 - class 9 [Forms & JS Events](201/RD09_Forms_JSevents.md)
 - class 10 [Debugging](201/RD10_Debugging.md)
-- class 11
-- class 12
+- class 11 [Audio Video Images](201/RD11_Audio_Video_Images.md)
+- class 12 [Docs For the HTML](201/RD12_Docs_For_HTML.md)
 - class 13
 - class 14
 - class 15

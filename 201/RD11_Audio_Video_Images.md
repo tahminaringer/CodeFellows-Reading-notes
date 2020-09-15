@@ -81,3 +81,34 @@ How to identify Kewords and Phrases
 
 **How flash works**
 - creates animations, plays audio and video in websites
+
+- **Sprites**
+  - Logos
+  - reusing images in different places (different website)
+  - animations
+  - hosting ( where do web resources live? )
+    - No need to have that image file in your project directory
+  - Multiple versions of images exists, to balance load times on your page.
+
+  ## HTML A/V
+
+  - HTML 5 offers us a couple of interesting elements for handling native audio and video file decoding. 
+    - it fuctions much like an image element, but the path to the source file just needs to contain supported audio / video formats
+      - Audio (.mp3/.mp4/.ogg)
+      - both offer browser specific contros (if supported). Gives the user a default interface for manipulating audio files.
+`<audio src="/http(s)/path/to/an/audio/file" controls muted autoplay>` 
+
+
+`<video src="/http(s)/path/to/an/audio/file" controls muted autoplay>`
+
+- Allows more than one source, allowing you to offer different codes for different browser
+`<video>`
+  `<source src="/http(s)/path/to/an/audio/file" type"">`
+`</video>`
+
+## Busmall: Vote Tracking
+
+- If presented with a list of options, the user can select which one product thy like, and our app can store and save those votes, as the user clicks on different images.
+  - Presented the user with different images each time they click.
+  - Incrementing a number for every image. 
+- How to store user data, per object
