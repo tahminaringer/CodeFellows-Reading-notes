@@ -30,7 +30,7 @@ I am a floral designer turned software developer. I spent the past 20 years perf
 - class 10 [Debugging](201/RD10_Debugging.md)
 - class 11 [Audio Video Images](201/RD11_Audio_Video_Images.md)
 - class 12 [Docs For the HTML](201/RD12_Docs_For_HTML.md)
-- class 13
+- class 13 [Local Storage](201/RD13_Local_Storage.md)
 - class 14
 - class 15
   

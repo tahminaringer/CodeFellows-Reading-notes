@@ -99,3 +99,40 @@ When using fill you can optionally provide a fill rule algorithm
 `direction = value` directionality
 `measureText()` returns a TextMetrics object containing the width in px that the specified text will be when drawn in the current text style.
 
+<form id='calculator'>
+  <fieldset>
+    <legend>Simple Calculator</legend>
+    <p id="result">0</p>
+    <label for="number1">
+    Number
+    </label>
+    <input name="number1" id="number1" type="number" required>
+    <button id="add-button">Add</button>
+    <button id="sub-button">Subtract</button>
+  </feildset>
+
+```
+var addButton = document.getElementById("add-button")
+var subButton = document.getElementById("sub-button")
+var numberImput = document.getElementById("number1")
+
+function handleClick(event) {
+var currentValue = parseInt(document.getElementById('result').textContent);
+  event.preventDefault();
+  var elementClicked = event.target;
+  var elementClicked = event.target;
+  var imputValue = parseInt(numberImput.value);
+  var newValue = 0
+
+  if (elementClicked.id === "add-button") {
+    currentValueNum + imputValue;
+  } else if (elementClicked.id === "sub-button") {
+    newValue = currentValueNum - imputValue
+  }
+  currentValueEl.textContent = newValue
+}
+
+addButton.addEventListener('click', handleClick);
+subButton.addEventListener('click', handleClick);
+
+```
