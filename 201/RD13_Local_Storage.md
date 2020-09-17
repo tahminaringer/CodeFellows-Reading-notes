@@ -41,4 +41,3 @@
 - Web SQL Database- provides a thin wrapper around a SQL database.
 - **Indexed Database API** object store
   - databases with records, each record has a sey number of fields.
-  
