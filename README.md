@@ -1,11 +1,11 @@
 
 # **Tahmina Ringer**
 
-I am a floral designer turned software developer. I spent the past 20 years perfecting my floristry skills, the last five of which I owned and opporated my own designgit studio. I am excited to combine my past expertise with growing in a new career in tech. I have 5 year old twin boys, who challenge and inspire me to learn and grow as much as possible.
+I am a floral designer turned software developer. I spent the past 20 years perfecting my floristry skills, the last five of which I owned and opporated my own designgit studio. I am excited to combine my past expertise with growing in a new career in tech. I have 5 year old twin boys, who challenge and inspire me to learn and grow as much as possible. This page consists of  of the notes I have taken of all the material we covered over the coarse of my studies at Code Fellows.
 
 [Portfolio](https://github.com/tahminaringer)
 
-## Table of Contents 102
+## Table of Contents 102 - Intro to Software Development
 
 - class 1  [learning markdown](102/learning_markdown.md)
 - class 2  [Coder's Computer](102/coders_computer.md)
@@ -16,7 +16,7 @@ I am a floral designer turned software developer. I spent the past 20 years perf
 - class 7  [Programing JavaScript](102/programming_JS.md)
 - class 8  [Opperators & Loops](102/opperators_loops.md)
 
-## Table of Contents 201
+## Table of Contents 201 - Foundations of Software Development
 
 - class 1 [HTML JavaScript Reveiw 01](201/RD01HTML_JS.md)
 - class 2 [Basics HTML, CSS, JS 02](201/RD02Basics_HTML_CSS_JS.md)
@@ -31,6 +31,10 @@ I am a floral designer turned software developer. I spent the past 20 years perf
 - class 11 [Audio Video Images](201/RD11_Audio_Video_Images.md)
 - class 12 [Docs For the HTML](201/RD12_Docs_For_HTML.md)
 - class 13 [Local Storage](201/RD13_Local_Storage.md)
-- class 14
-- class 15
-  
+- class 14 [CSS Transitions and Annimations] (201/RD14.md)
+
+## Table of Contents 301 - Intermediate Software Development
+
+- Class 1
+
+## Table of Contents 401 - Advanced Software Development
