@@ -31,10 +31,24 @@ I am a floral designer turned software developer. I spent the past 20 years perf
 - class 11 [Audio Video Images](201/RD11_Audio_Video_Images.md)
 - class 12 [Docs For the HTML](201/RD12_Docs_For_HTML.md)
 - class 13 [Local Storage](201/RD13_Local_Storage.md)
-- class 14 [CSS Transitions and Annimations] (201/RD14.md)
+- class 14 [CSS Transitions and Annimations](201/RD14.md)
 
 ## Table of Contents 301 - Intermediate Software Development
 
-- Class 1
+- Class 1 [Responsive Web Design & Floats](301/RD01)
+- Class 2
+- Class 3
+- Class 4
+- Class 5
+- Class 6
+- Class 7
+- Class 8
+- Class 9
+- Class 10
+- Class 11
+- Class 12
+- Class 13
+- Class 14
+- Class 15
 
 ## Table of Contents 401 - Advanced Software Development
