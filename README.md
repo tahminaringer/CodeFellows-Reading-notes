@@ -38,7 +38,7 @@ I am a floral designer turned software developer. I spent the past 20 years perf
 - Class 1 [Responsive Web Design & Floats](301/RD01)
 - Class 2 [jQuery](301/RD02.md)
 - Class 3 [Mustache & Flexbox](301/RD03.md)
-- Class 4
+- Class 4 [CSS Grid](301/RD04.md)
 - Class 5
 - Class 6
 - Class 7
