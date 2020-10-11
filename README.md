@@ -40,7 +40,7 @@ I am a floral designer turned software developer. I spent the past 20 years perf
 - Class 3 [Mustache & Flexbox](301/RD03.md)
 - Class 4 [CSS Grid](301/RD04.md)
 - Class 5 [HEROKU](301/RD05.md)
-- Class 6
+- Class 6 [What is Node](301/RD06.md)
 - Class 7
 - Class 8
 - Class 9
