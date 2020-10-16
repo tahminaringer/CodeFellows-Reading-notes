@@ -43,7 +43,7 @@ I am a floral designer turned software developer. I spent the past 20 years perf
 - Class 6 [What is Node](301/RD06.md)
 - Class 7 [SQL](301/RD08.md)
 - Class 8 [Functional Programing](301/RD09.md)
-- Class 9
+- Class 9 [THE CALL STACK](301/RD10.md)
 - Class 10
 - Class 11
 - Class 12
