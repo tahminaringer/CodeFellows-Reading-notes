@@ -41,12 +41,12 @@ I am a floral designer turned software developer. I spent the past 20 years perf
 - Class 4 [CSS Grid](301/RD04.md)
 - Class 5 [HEROKU](301/RD05.md)
 - Class 6 [What is Node](301/RD06.md)
-- Class 7 [SQL](301/RD08.md)
-- Class 8 [Functional Programing](301/RD09.md)
-- Class 9 [THE CALL STACK](301/RD10.md)
-- Class 10
-- Class 11
-- Class 12
+- Class 7 [What did Google Learn](301/RD07.md)
+- Class 8 [SQL](301/RD08.md)
+- Class 9 [Functional Programing](301/RD09.md)
+- Class 10 [THE CALL STACK](301/RD10.md)
+- Class 11[EJS](301/RD11.md)
+- Class 12 [Patials](301/RD12.md)
 - Class 13
 - Class 14
 - Class 15
