@@ -45,9 +45,9 @@ I am a floral designer turned software developer. I spent the past 20 years perf
 - Class 8 [SQL](301/RD08.md)
 - Class 9 [Functional Programing](301/RD09.md)
 - Class 10 [THE CALL STACK](301/RD10.md)
-- Class 11[EJS](301/RD11.md)
+- Class 11 [EJS](301/RD11.md)
 - Class 12 [Patials](301/RD12.md)
-- Class 13
+- Class 13 [Sending Form Data](301/RD13.md)
 - Class 14
 - Class 15
 
