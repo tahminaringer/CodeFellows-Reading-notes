@@ -48,7 +48,7 @@ I am a floral designer turned software developer. I spent the past 20 years perf
 - Class 11 [EJS](301/RD11.md)
 - Class 12 [Patials](301/RD12.md)
 - Class 13 [Sending Form Data](301/RD13.md)
-- Class 14 [Database Normalization](301/RD13.md)
-- Class 15
+- Class 14 [Database Normalization](301/RD14.md)
+- Class 15 [Diversity and Inclusion](301/RD15.md)
 
 ## Table of Contents 401 - Advanced Software Development
