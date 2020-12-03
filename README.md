@@ -52,3 +52,5 @@ I am a floral designer turned software developer. I spent the past 20 years perf
 - Class 15 [Diversity and Inclusion](301/RD15.md)
 
 ## Table of Contents 401 - Advanced Software Development
+- Pre-work Read [Engineering Topics](prework_RD.md)
+
