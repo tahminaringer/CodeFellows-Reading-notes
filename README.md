@@ -56,3 +56,5 @@ I am a floral designer turned software developer. I spent the past 20 years perf
 - Pre-work Read [Engineering Topics](401/prework_RD.md)
 - Class 1 [Node Ecosystems, TDD, CI/CD](401/RD01.md)
 - Class 2 [Express](401/RD02.md)
+- Class 3 [REST API](401/RD03.md)
+- Class 4 [Data Modeling](401/RD04.md)
