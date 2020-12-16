@@ -58,6 +58,7 @@ I am a floral designer turned software developer. I spent the past 20 years perf
 - Class 2 [Express](401/RD02.md)
 - Class 3 [REST API](401/RD03.md)
 - Class 4 [Data Modeling](401/RD04.md)
-  - RD Linked Lists [Linked Lists](401/linkedLists.md)
-- C
+- Class 5 [Linked Lists](401/linkedLists.md)
+- Class 6 [Authentication](401/RD06.md)
+- Class 7 [Review, Research, and Discussion](401/RD07.md)
   
