@@ -59,4 +59,5 @@ I am a floral designer turned software developer. I spent the past 20 years perf
 - Class 3 [REST API](401/RD03.md)
 - Class 4 [Data Modeling](401/RD04.md)
   - RD Linked Lists [Linked Lists](401/linkedLists.md)
+- C
   
