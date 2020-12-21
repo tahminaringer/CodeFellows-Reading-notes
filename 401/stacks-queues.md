@@ -10,7 +10,7 @@
   - When you attemt to pop an empty stack an exception will be raised
 - `Top` this is the top of the stack
 - `Peek` When you peek you will view the value of the top Node in the stack
-  - When you attempt to peek an empty stack an ecveption will be raised.
+  - When you attempt to peek an empty stack an exception will be raised.
 - `IsEmpty` returns true when stack is empty otherwise returns false
 
 `FILO` First In Last Out - This means that the first item added in the stack will be the last item popped out of the stack
