@@ -63,4 +63,5 @@ I am a floral designer turned software developer. I spent the past 20 years perf
 - Class 7 [Review, Research, and Discussion](401/RD07.md)
 - Class 8 [ACL-Access Control](401/RD08.md)
 - Class 10[Stacks & Queues](401/stacks-queues.md)
-- Class 11[Event Driven Applications](RD11.md)
+- Class 11[Event Driven Applications](401/RD11.md)
+- Class 12[Socket.io](401/RD12.md)
