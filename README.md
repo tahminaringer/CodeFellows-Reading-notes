@@ -65,3 +65,6 @@ I am a floral designer turned software developer. I spent the past 20 years perf
 - Class 10[Stacks & Queues](401/stacks-queues.md)
 - Class 11[Event Driven Applications](401/RD11.md)
 - Class 12[Socket.io](401/RD12.md)
+- Class 13[Message Queues](401/RD13.md)
+- Class 14[Event Driven Architecture](401/RD14.md)
+- Class 15[Binary Trees](401/binary-trees.md)
