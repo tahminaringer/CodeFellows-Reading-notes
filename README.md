@@ -68,3 +68,4 @@ I am a floral designer turned software developer. I spent the past 20 years perf
 - Class 13[Message Queues](401/RD13.md)
 - Class 14[Event Driven Architecture](401/RD14.md)
 - Class 15[Binary Trees](401/binary-trees.md)
+- Class 16[AWS: Cloud Servers](401/RD16.md)
