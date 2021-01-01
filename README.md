@@ -70,3 +70,4 @@ I am a floral designer turned software developer. I spent the past 20 years perf
 - Class 15[Binary Trees](401/binary-trees.md)
 - Class 16[AWS: Cloud Servers](401/RD16.md)
 - Class 17[AWS: S3 and Lambda](401/RD17.md)
+- Class 18[AWS: API, Dynamo and Lambda](401/RD18.md)
