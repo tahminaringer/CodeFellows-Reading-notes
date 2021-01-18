@@ -74,7 +74,7 @@ I am a floral designer turned software developer. I spent the past 20 years perf
 - Class 26[Review, Research and Discussion](401/RD26.md)
 - Class 27[Props and State](401/RD27.md)
 - Class 28[Component Composition](401/RD28.md)
-- Class 29[](401/RD29.md)
+- Class 29[Routing](401/RD29.md)
 - Class 31[Hash Tables](401/Hash-Tables.md)
 - Class 31[](401/RD31.md)
 - Class 32[](401/RD32.md)
