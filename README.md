@@ -76,7 +76,7 @@ I am a floral designer turned software developer. I spent the past 20 years perf
 - Class 28[Component Composition](401/RD28.md)
 - Class 29[Routing](401/RD29.md)
 - Class 31[Hash Tables](401/Hash-Tables.md)
-- Class 31[](401/RD31.md)
-- Class 32[](401/RD32.md)
-- Class 34[](401/RD34.md)
-
+- Class 31[Hooks API](401/RD31.md)
+- Class 32[Custom Hooks](401/RD32.md)
+- Class 34[Login Auth](401/RD34.md)
+- Class 35[Graphs](401/RD35.md)
