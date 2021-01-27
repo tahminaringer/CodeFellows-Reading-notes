@@ -80,3 +80,5 @@ I am a floral designer turned software developer. I spent the past 20 years perf
 - Class 32[Custom Hooks](401/RD32.md)
 - Class 34[Login Auth](401/RD34.md)
 - Class 35[Graphs](401/RD35.md)
+- Class 36[Application State With Redux](401/RD36.md)
+- Class 37[Combined Reducers](401/RD37.md)
