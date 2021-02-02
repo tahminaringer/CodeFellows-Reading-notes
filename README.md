@@ -83,3 +83,5 @@ I am a floral designer turned software developer. I spent the past 20 years perf
 - Class 36[Application State With Redux](401/RD36.md)
 - Class 37[Combined Reducers](401/RD37.md)
 - Class 38[Redux - Asynchronous Action](401/RD38.md)
+- Class 39[Redux - Additional Topics](401/RD39.md)
+- Class 41[React Native](401/RD41.md)
