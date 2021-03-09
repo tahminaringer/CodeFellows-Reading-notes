@@ -1,7 +1,7 @@
 
 # **Tahmina Ringer**
 
-I am a floral designer turned software developer. I spent the past 20 years perfecting my floristry skills, the last five of which I owned and opporated my own designgit studio. I am excited to combine my past expertise with growing in a new career in tech. I have 5 year old twin boys, who challenge and inspire me to learn and grow as much as possible. This page consists of  of the notes I have taken of all the material we covered over the coarse of my studies at Code Fellows.
+I am full-stack JavaScript Software Developer. I spent the past 20 years perfecting my floristry skills, the last five of which I developed and opporated my own floral and event design studio. I am excited to combine my past customer focused, entrepreneurial, expertise with growing in a new career that challenges my creativity, problemsolving and innovation. I have 5 year old twin boys, who challenge and inspire me to learn and grow as much as possible. This page consists of  of the notes I have taken over the coarse of my studies at Code Fellows.
 
 [Portfolio](https://github.com/tahminaringer)
 
@@ -85,3 +85,4 @@ I am a floral designer turned software developer. I spent the past 20 years perf
 - Class 38[Redux - Asynchronous Action](401/RD38.md)
 - Class 39[Redux - Additional Topics](401/RD39.md)
 - Class 41[React Native](401/RD41.md)
+- Class 42[Ethics in Tech](401/ethics-tech.md)
